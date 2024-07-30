@@ -21,17 +21,17 @@ git clone https://github.com/0xdipak/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 ```
 
-##Build the Project
+## Build the Project
 ```
 cargo build --release
 ```
 
-##Run the Game
+## Run the Game
 ```
 cargo run
 ```
 
-##Example
+## Example
 ```
 Player X, enter your move (row and column): 1 1
 Player Y, enter your move (row and column): 0 0
