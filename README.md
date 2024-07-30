@@ -16,17 +16,23 @@ A simple command-line Tic Tac Toe game written in Rust. This game allows two pla
 
 ### Clone the Repository
 
-```sh
+```
 git clone https://github.com/0xdipak/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
+```
 
-Build the Project
+##Build the Project
+```
 cargo build --release
+```
 
-Run the Game
+##Run the Game
+```
 cargo run
+```
 
-Example
-Player 1, enter your move (row and column): 1 1
-Player 2, enter your move (row and column): 0 0
-...
+##Example
+```
+Player X, enter your move (row and column): 1 1
+Player Y, enter your move (row and column): 0 0
+```
